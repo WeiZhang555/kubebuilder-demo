@@ -1,0 +1,6 @@
+apiVersion: "ship.k8s.io/v1beta1"
+kind: Frigate 
+metadata:
+  name: my-new-test-object
+spec:
+  myApp: "aaaa"

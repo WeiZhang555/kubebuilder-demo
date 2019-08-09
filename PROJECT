@@ -1,0 +1,7 @@
+version: "2"
+domain: k8s.io
+repo: github.com/weizhang555/test
+resources:
+- group: ship
+  version: v1beta1
+  kind: Frigate
